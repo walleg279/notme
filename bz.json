@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amarbank-bz",
+  "private_key_id": "fe760e666ec6e9bb90b56f68026f233125965d6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIICWwIBAAKBgGySOAaxhbMa147AoH6oJGQ4DHtgGPYUtd5ICF0Tv7cad4u9ICG6vJ/Vbr3kCHQ9c5+bSnFrRSvD+aSCNBqhP6qEOhf2rE6zbMNH1BwL8PCKyKSMPdSMOlWvGIfnsPh3GqRHzqQD3dNtfaY/KzpvI+dSZwLrK8Za13gEAAsBedxfAgMBAAECgYAPBwIIMyQNUUbKtHDCdyVqVbOsk/WAggdWN+QodeZQQrKPPeMnqAAZo2ILmHdvF15clhLstetCDoMMORVbJjx4gChDIXKApuNKrUR2HEYJktDs51Mn6o4xpvz3FHI55rpwh9WJMd3C+38UvdVNfiSFU53kGLhue9m0OwhKmutwKQJBALhbnVwCrTv2U46ppvtC19hqPZS827XXP5GaN+ApELloBH85Fj6gLRh0eWzAzFZUNwyRJCRWrFXloWQLKImD20sCQQCWwybvSC2Tr6BG+f1iSxlD7DmFy+TkjSGKNvAQTJn2ht+AKkgqBal1H0tVBmcdEohkOWNuHcuVPMsPs0A+YyK9AkEAp6GuMQbCDD7L9XGvwtIhv8fCnOcpBGxngfZvjiTo7x100VXQMzukJZNrAYdBhdHniEbFTUF+TFCTcotu3bOGhwJAOhemmAtC7KZ+5vqLJWX0rVSH8cNYRq0PIHf81vr9VJ4x3uvr9K1L18KgP3oBH5W1kpD+fD7k5HORd1JFzgRbLQJAP+un1fFPYZVCbVbTfq6xA+0p6ySTyqpEotluFVkEzGw2diwdGN+kwapbdwPu/010SlsA0YLctF0L41Q8MAnoJA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dev-bz@amarbank-bz.iam.gserviceaccount.com",
+  "client_id": "101957821234228144626",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bz%40amarbank-bz.iam.gserviceaccount.com"
+}
